@@ -2,7 +2,11 @@
 
 Me neither - but here we are. 
 
+Check it out: https://osdcclojure.playground.cloudbees.net
+
 Look in slides.clj - reasonable "DSL" for writing presentations.
+
+
 
 
 # Running it locally:
