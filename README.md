@@ -2,10 +2,13 @@
 
 Me neither - but here we are. 
 
+Look in slides.clj - reasonable "DSL" for writing presentations.
 
 
-# Running it
+# Running it locally:
 lein ring server
+
+(you can make changes and refresh)
 
 # To deploy it for all the world to see:
 lein cloudbees deploy
