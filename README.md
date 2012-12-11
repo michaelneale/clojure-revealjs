@@ -2,7 +2,7 @@
 
 Me neither - but here we are. 
 
-Check it out: https://osdcclojure.playground.cloudbees.net
+Demo: https://osdcclojure.playground.cloudbees.net
 
 Look in slides.clj - reasonable "DSL" for writing presentations.
 
@@ -14,7 +14,7 @@ lein ring server
 
 (you can make changes and refresh)
 
-# To deploy it for all the world to see:
+# To deploy it for all the world to see (on cloudbees here):
 lein cloudbees deploy
 
 Edit slides.clj to, um, edit your slides. 
