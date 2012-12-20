@@ -2,7 +2,7 @@
 
 Me neither - but here we are. 
 
-Demo: https://osdcclojure.playground.cloudbees.net
+Demo: http://osdcclojure.playground.cloudbees.net
 
 Look in slides.clj - reasonable "DSL" for writing presentations.
 
